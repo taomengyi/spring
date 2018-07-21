@@ -1,4 +1,4 @@
-package com.us.example.config;
+package com.us.example1.config;
 
 import org.mybatis.spring.SqlSessionFactoryBean;
 import org.springframework.beans.factory.annotation.Autowired;

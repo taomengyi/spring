@@ -1,6 +1,6 @@
-package com.us.example.dao;
+package com.us.example1.dao;
 
-import com.us.example.domain.Permission;
+import com.us.example1.domain.Permission;
 
 import java.util.List;
 

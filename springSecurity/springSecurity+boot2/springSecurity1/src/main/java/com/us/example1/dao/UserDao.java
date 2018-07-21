@@ -1,6 +1,6 @@
-package com.us.example.dao;
+package com.us.example1.dao;
 
-import com.us.example.domain.SysUser;
+import com.us.example1.domain.SysUser;
 
 
 public interface UserDao {

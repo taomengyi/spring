@@ -1,7 +1,7 @@
-package com.us.example.service;
+package com.us.example1.service;
 
-import com.us.example.dao.PermissionDao;
-import com.us.example.domain.Permission;
+import com.us.example1.dao.PermissionDao;
+import com.us.example1.domain.Permission;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.ConfigAttribute;
 import org.springframework.security.access.SecurityConfig;

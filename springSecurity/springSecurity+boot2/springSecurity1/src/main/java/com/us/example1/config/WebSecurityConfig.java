@@ -1,7 +1,7 @@
-package com.us.example.config;
+package com.us.example1.config;
 
-import com.us.example.service.CustomUserService;
-import com.us.example.service.MyFilterSecurityInterceptor;
+import com.us.example1.service.CustomUserService;
+import com.us.example1.service.MyFilterSecurityInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

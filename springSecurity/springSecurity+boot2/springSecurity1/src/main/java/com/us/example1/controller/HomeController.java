@@ -1,6 +1,6 @@
-package com.us.example.controller;
+package com.us.example1.controller;
 
-import com.us.example.domain.Msg;
+import com.us.example1.domain.Msg;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

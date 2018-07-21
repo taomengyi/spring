@@ -1,4 +1,4 @@
-package com.us.example.config;
+package com.us.example1.config;
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
 import org.springframework.beans.factory.annotation.Autowired;
